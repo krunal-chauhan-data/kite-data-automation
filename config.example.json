@@ -1,0 +1,8 @@
+{
+  "api_key": "your_kite_api_key",
+  "api_secret": "your_kite_api_secret",
+  "exchange": "NSE",
+  "watchlist": ["RELIANCE", "TCS", "INFY", "HDFCBANK", "ITC"],
+  "interval": "day",
+  "days": 90
+}
